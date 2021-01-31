@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Main Database</string>
+    <string name="welcome">WELCOME</string>
+    <string name="user_name">Name</string>
+    <string name="user_phone">Phone</string>
+    <string name="send">Save</string>
+</resources>
